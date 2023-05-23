@@ -1,6 +1,6 @@
   # Praktikum3_BD
   ```
-  Nama   : Najwa iffa fadhila
+  Nama   : Najwa Iffa Fadhila
   NIM    : 312210275
   Kelas  : TI.22.A.2
   ```

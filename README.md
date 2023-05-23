@@ -1,7 +1,7 @@
   # Praktikum3_BD
   ```
-  Nama   : Venikala Natalia Kala
-  NIM    : 312210690
+  Nama   : Najwa iffa fadhila
+  NIM    : 312210275
   Kelas  : TI.22.A.2
   ```
   ## SQL Constraint
